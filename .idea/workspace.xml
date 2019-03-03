@@ -9,6 +9,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <leaf>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Class2/assignment1.py">
@@ -20,6 +21,9 @@
         </entry>
       </file>
     </leaf>
+=======
+    <leaf />
+>>>>>>> branch1
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -69,11 +73,14 @@
               <item name="python_tutorial" type="462c0819:PsiDirectoryNode" />
               <item name="class1" type="462c0819:PsiDirectoryNode" />
             </path>
+<<<<<<< HEAD
             <path>
               <item name="python_tutorial" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_tutorial" type="462c0819:PsiDirectoryNode" />
               <item name="Class2" type="462c0819:PsiDirectoryNode" />
             </path>
+=======
+>>>>>>> branch1
           </expand>
           <select />
         </subPane>
