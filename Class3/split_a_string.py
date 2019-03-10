@@ -1,6 +1,6 @@
 para = input("Enter a senetence: ")
 
-words = para.split(" ")
+words = para.split(" ")  #split sentence on based of common thing
 
 print(words)
 
