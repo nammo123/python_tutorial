@@ -13,7 +13,7 @@ print(odd_num_string)
 
 #even number print
 
-mystring1 = "12345678910"
+mystring1 = "123456789'10'"
 
 even_num_string = mystring1[1:len(mystring1):2]
 print(even_num_string)
