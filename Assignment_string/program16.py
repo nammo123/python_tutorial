@@ -3,3 +3,5 @@ def insert_string_middle(str, word):
 
 print(insert_string_middle('[[]]', 'Python'))
 print(insert_string_middle('{{}}',"PHP"))
+
+
