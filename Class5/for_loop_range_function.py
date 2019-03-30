@@ -5,7 +5,7 @@ output_string = "Numbers divisible by {} between 0 to {} are: ".format(num,limit
 
 for i in range(0, limit+1):
     print(i)
-    if(i>=100 AND i<=200):
+    if i>=100:
         continue
     if(i%num == 0):
         output_string = output_string + str(i) + ","

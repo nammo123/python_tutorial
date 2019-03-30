@@ -23,8 +23,14 @@ print(fruit_list)
 fruit_list.reverse()
 print(fruit_list)
 
+fuit_list.sort()
+print(fruit_list)
+
 fruit_list_copy = fruit_list.copy()
 print(fruit_list_copy)
+
+fruit_list.clear()
+print(fruit_list)
 
 
 
