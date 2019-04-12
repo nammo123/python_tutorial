@@ -1,0 +1,6 @@
+mango
+apple
+banana
+mango 
+avocado
+exite
