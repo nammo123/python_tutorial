@@ -1,3 +1,8 @@
-num1 = int(input("Enter range 1: "))
-num2 = int(input("Enter range 2: "))
+
+n1 = []
+
+for i in range(1500,2700):
+    if(i%7==0) and (i%5==0):
+        n1.append(str(i))
+print(",".join(n1))
 

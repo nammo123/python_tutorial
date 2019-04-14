@@ -1,0 +1,5 @@
+CREATE DATABASE mydb1;
+
+USE mydb1;
+
+CREATE TABLE customers
